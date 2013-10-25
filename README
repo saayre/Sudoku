@@ -1,0 +1,5 @@
+Just a terribly written Sudoku solver in C.
+
+Uses Donald Knuth's Algorithm X, and tries to implement it using this really stupid quadruply linked grid with column headers.
+
+24 October, 2013 - It kinda works.  Fails when I have to replace a column or remove a second column.  This is hard.
